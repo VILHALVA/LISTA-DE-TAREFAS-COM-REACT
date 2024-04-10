@@ -50,7 +50,6 @@
    ```
    http://localhost:3333/tarefas
    ```
-   - Se não estiver familiarizado com esse processo, confira este [curso](https://github.com/VILHALVA/CURSO-DE-REST-API) para obter orientações detalhadas.
 
 5. **Usando o APP:**
    - **Visualização da Lista de Tarefas:**
