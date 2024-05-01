@@ -81,7 +81,8 @@
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE REACT](https://github.com/VILHALVA/CURSO-DE-REACT)
-* [CURSO DE REST API](https://github.com/VILHALVA/CURSO-DE-REST-API)
+* [CURSO DE API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
+* [CURSO DE JSON SERVER](https://github.com/VILHALVA/CURSO-DE-JSON-SERVER)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
